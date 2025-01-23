@@ -4,6 +4,9 @@ function Home() {
   return (
     <>
       <Header></Header>
+      <div>
+        
+      </div>
     </>
   )
 }
