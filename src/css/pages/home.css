@@ -1,16 +1,26 @@
+.home {
+  text-align: left;
+}
+
 .homeImg {
   overflow: visible;
   min-height: auto;
   min-width: auto;
   width: 50%;
-  height: 1286px;
+  height: 100vh;
   z-index: 0;
   position: absolute;
   display: block;
   visibility: visible;
   right: 0px;
   top: 0px;
-  clip-path: polygon(0 0, 80% 0, 70% 50%, 80% 100%, 0 100%);
+  clip-path: polygon(50% 0, 100% 0, 100% 0%, 100% 100%, 0 100%);
 }
-.teste {
+
+.text {
+  width: 50%;
+  font-size: large;
+  font-weight: bold;
+  text-transform:uppercase;
+  padding-left: 16px;
 }

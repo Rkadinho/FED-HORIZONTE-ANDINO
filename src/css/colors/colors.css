@@ -2,6 +2,14 @@
   background-color: #74B3CE;
 }
 
+.bg-secondary {
+  background-color: #FFFF ;
+}
+
 .text-primary {
   color: #FFFFFF;
+}
+
+.text-secondary {
+  color: #4A773C;
 }
