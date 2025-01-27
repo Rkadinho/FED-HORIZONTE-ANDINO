@@ -33,10 +33,6 @@
   cursor: pointer;
 }
 
-.img:focus {
-  opacity: 100%;
-}
-
 .name {
   margin: 0px;
 }
@@ -47,10 +43,14 @@
 
 .active {
   opacity: 100%;
+  box-shadow: 0 5px 8px rgb(0 0 0 / 81%);
 }
 
 .feedback-text {
   width: 50%;
   max-width: 50%;
 }
-  
+
+.title-container {
+  height: 0
+}

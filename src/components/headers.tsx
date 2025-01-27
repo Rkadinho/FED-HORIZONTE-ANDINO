@@ -13,8 +13,8 @@ export default function Header() {
           <div className='options'>
             <a className='text-primary'>HOME</a>
             <a className='text-primary'>QUEM SOMOS?</a>
-            <a className='text-primary'>EXPERIÊNCIAS ANDINAS</a>
             <a className='text-primary'>AVENTURAS ANDINAS</a>
+            <a className='text-primary'>EXPERIÊNCIAS ANDINAS</a>
             <a className='text-primary'>FAÇA SUA RESERVA</a>        
           </div>
         </section>
