@@ -5,8 +5,8 @@ import '../css/global.css'
 export default function Header() {
   return (
     <>
-      <header className="header bg">
-        <section>
+      <header className="bg shadow header">
+        <section className='space-b'>
           <div>
           <img src={MinhaImagem} alt="Descrição da imagem" />
           </div>

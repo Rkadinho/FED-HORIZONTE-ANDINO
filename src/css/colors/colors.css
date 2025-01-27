@@ -3,7 +3,11 @@
 }
 
 .bg-secondary {
-  background-color: #FFFF ;
+  background-color: #F4F9F9 ;
+}
+
+.bg-tertiary {
+  background-color: #FFC482;
 }
 
 .text-primary {
@@ -11,5 +15,9 @@
 }
 
 .text-secondary {
-  color: #4A773C;
+  color: #74B3CE;
+}
+
+.text-tertiary {
+  color: #FFC482;
 }

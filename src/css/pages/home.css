@@ -1,7 +1,3 @@
-.home {
-  text-align: left;
-}
-
 .homeImg {
   overflow: visible;
   min-height: auto;
@@ -22,5 +18,4 @@
   font-size: large;
   font-weight: bold;
   text-transform:uppercase;
-  padding-left: 16px;
 }

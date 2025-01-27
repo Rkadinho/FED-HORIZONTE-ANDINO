@@ -1,0 +1,7 @@
+.grid-s {
+  justify-items: flex-start;
+}
+
+.grid-e {
+  justify-items: flex-end;
+}

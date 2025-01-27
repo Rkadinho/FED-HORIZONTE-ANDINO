@@ -1,0 +1,56 @@
+.title {
+  margin-bottom: 0px;
+}
+
+.sub-title {
+  margin: 0px
+}
+
+.speech-marks {
+  font-size: 50px;
+  color: #74B3CE;
+  margin-bottom: 0px;
+}
+
+.feedback {
+  margin-top: 0px;
+}
+
+.img-list {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.img-tour {
+  width: 150px;
+  height: 150px;
+  margin: 16px;
+  border-radius: 20%;
+  opacity: 50%;
+}
+
+.img-tour:hover {
+  opacity: 100%;
+  cursor: pointer;
+}
+
+.img:focus {
+  opacity: 100%;
+}
+
+.name {
+  margin: 0px;
+}
+
+.city {
+  margin: 0px
+}
+
+.active {
+  opacity: 100%;
+}
+
+.feedback-text {
+  width: 50%;
+  max-width: 50%;
+}
+  

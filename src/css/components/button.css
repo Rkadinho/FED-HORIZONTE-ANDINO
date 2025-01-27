@@ -1,0 +1,16 @@
+.button {
+  height: 42px;
+  max-height: 42px;
+  min-width: 200px
+}
+
+button:hover {
+  border: 2px solid #F4F9F9;
+  background-color: #74B3CE;
+  color: #F4F9F9;
+  box-shadow: none;
+}
+
+button:focus {
+  outline: none;
+}

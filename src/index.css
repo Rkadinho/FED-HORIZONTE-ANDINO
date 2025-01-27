@@ -4,8 +4,8 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(250, 6, 6, 0.87);
-  background-color: #4A773C;
+  color: rgb(54, 48, 48);
+  background-color: #F4F9F9;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -20,7 +20,7 @@ a {
   margin: 0 16px 0 0 ;
 }
 a:hover {
-  color: #4A773C;
+  color: #FFC482;
   cursor: pointer;
 }
 

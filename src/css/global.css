@@ -1,1 +1,9 @@
-@import './colors/colors.css'
+@import './colors/colors.css';
+@import './spacing/padding.css';
+@import './align/text-align.css'; 
+@import './align/justify-content.css';
+@import './shadows/box-shadow.css';
+@import './section/section.css';
+@import './align/display.css';
+@import './align/align-item.css';
+@import './align/justify-items.css';
